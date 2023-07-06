@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "enum": ["RUR", "USD"]git push
+        "enum": ["RUB", "USD"]
       }
     }
   }
